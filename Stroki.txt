@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Stroka 1 
-Stroka 2
-=======
-Stroka 1 2 2
+Stroka 1 2
 Stroka 3
->>>>>>> master2
 
