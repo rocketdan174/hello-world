@@ -4,5 +4,5 @@ main()
 {
 	int n;
 	cin>>n;
-	cout<<"Hellow world";
+	cout<<"Hellow "<<n;
 }
